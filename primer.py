@@ -1,5 +1,5 @@
 
-#Aquest programa determina si un nombre és enter.
+#Aquest és el programa de mostra per l'examen.
 
 def comprova_si_es_primer (num) : 
 
